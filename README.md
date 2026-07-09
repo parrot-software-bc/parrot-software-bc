@@ -1,13 +1,29 @@
 # Parrot Integrated Software Development 🦜
-**High-Security B2B Automation & System Integration Specialists**
 
-We provide end-to-end technical solutions designed to streamline business operations and bridge the gap between disparate software ecosystems. 
+**High-Performance AI Infrastructure & Autonomous Systems**
 
-### **What We Do:**
-* **Custom Integration Architecture:** Designing secure "glue" between your core business tools (CRMs, ERPs, and Databases).
-* **n8n Node Development:** Building proprietary, high-performance nodes for specialized API requirements.
-* **Workflow Engineering:** Auditing and automating manual business processes to reduce human error and operational overhead.
-* **API Management & Security:** Ensuring data moves between systems with enterprise-grade security and reliability.
-* **Full-Stack Scripting:** Custom Python, JavaScript, and shell scripting for complex data transformation and server-side tasks.
+Parrot Integrated Software Development is an engineering house dedicated to building scalable, intelligent infrastructure for the modern tech stack. We are the architects behind **[Polycracker](https://www.polycracker.dev)**—the platform designed to solve the heavy lifting of LLM application development.
 
-> **Note:** Due to the sensitive nature of our B2B client work and high-security requirements, the majority of our repositories are kept private. For inquiries or custom project requests, contact us at **parrotsoftwarebc@gmail.com**.
+---
+
+## 🚀 Flagship Platform: Polycracker
+
+Polycracker provides the foundational layers developers need to deploy robust, AI-driven applications. Our infrastructure is built on three core API pillars:
+
+*   **Workflow API:** Autonomous workflow orchestration that turns complex logic into reliable execution.
+*   **Universal API:** Deep, developer-first integration capabilities designed to slot seamlessly into any existing stack.
+*   **Memory API:** Advanced RAG and contextual memory that gives your LLMs the long-term knowledge they need to be truly useful.
+
+**Start building at:** [www.polycracker.dev](https://www.polycracker.dev)
+
+---
+
+## 🛠 Our Engineering Philosophy
+
+We believe in the "Solocorn" approach: 
+*   **Small Teams, High Impact:** We build robust, modular codebases that punch above their weight and deliver enterprise-grade stability.
+*   **Infrastructure-First:** We prioritize clean API design and rock-solid architecture over temporary fixes.
+*   **Open Architecture:** We create interoperable tools that integrate seamlessly into the ecosystems developers already use.
+---
+
+*For inquiries, partnership opportunities, or technical feedback, contact us at parrotsoftwarebc@gmail.com.*
